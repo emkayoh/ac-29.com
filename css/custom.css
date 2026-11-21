@@ -1,0 +1,26 @@
+/* your styles go here */
+
+body {
+    font-family: sans-serif;
+      font-style: normal;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+.navbar {
+  font-family: sans-serif;
+  font-style: normal;
+  min-height: 40px;
+  margin-bottom: 0;
+  border-bottom: 1px solid transparent;
+}
+
+.copyright {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #eeeeee;
+    font-style: normal;
+} 
+/* Inherited from footer.section-inverse */
